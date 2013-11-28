@@ -1,4 +1,4 @@
-Source: python-simple-db-migrate
+Source: simple-db-migrate
 Section: python
 Priority: optional
 Maintainer: Olaf Gladis <gladis@pokermania.de>
